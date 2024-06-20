@@ -151,12 +151,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CustomEdit.cpp" />
     <ClCompile Include="Dialog1.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CustomEdit.h" />
     <ClInclude Include="Dialog1.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
